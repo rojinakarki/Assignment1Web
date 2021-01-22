@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e465d69-7427-4c45-bee8-053d00184943" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k5SoouonFGCaXtkoaX6m3qruKY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/ICT726_Tutorial" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Assignment1" />
+      <recent name="C:\Users\ma\PhpstormProjects\Assignment1" />
+      <recent name="C:\Users\ma\PhpstormProjects\Assignment1\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ma\PhpstormProjects\Assignment1\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e465d69-7427-4c45-bee8-053d00184943" name="Default Changelist" comment="" />
+      <created>1604989136656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604989136656</updated>
+      <workItem from="1604989137786" duration="2502000" />
+      <workItem from="1605597947365" duration="601000" />
+      <workItem from="1607414051157" duration="599000" />
+      <workItem from="1607518890726" duration="2236000" />
+      <workItem from="1607564062517" duration="15839000" />
+      <workItem from="1607812275263" duration="2787000" />
+      <workItem from="1607815418115" duration="41504000" />
+      <workItem from="1608017227732" duration="64000" />
+      <workItem from="1610442757744" duration="607000" />
+      <workItem from="1610703802401" duration="155000" />
+      <workItem from="1610969677455" duration="931000" />
+      <workItem from="1611031225510" duration="1882000" />
+      <workItem from="1611035867123" duration="1517000" />
+      <workItem from="1611041237120" duration="882000" />
+      <workItem from="1611226278639" duration="1696000" />
+      <workItem from="1611289386116" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="0" key="#CLI_Interpreters" timestamp="1611041601690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="0" key="#CLI_Interpreters/0.0.1280.680@0.0.1280.680" timestamp="1611041601690" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611041956984">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1611041956984" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611289396360">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1611289396360" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1611042126627">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611042126627" />
+    <state width="198" height="457" key="HiddenNamespacesPopup" timestamp="1611041916651">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="198" height="457" key="HiddenNamespacesPopup/0.0.1280.680@0.0.1280.680" timestamp="1611041916651" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1611035076437">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1611035076437" />
+    <state x="366" y="0" width="914" height="680" key="SettingsEditor" timestamp="1611041666476">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="366" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1611041666476" />
+  </component>
+</project>

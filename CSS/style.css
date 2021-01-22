@@ -1,0 +1,391 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+/* Content for all pages*/
+.content-container{
+    margin: 30px;
+    text-align: justify;
+    padding: 10px;
+}
+/* Navbar */
+.navbar {
+    overflow: hidden;
+    background-color: #113041;
+}
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: justify;
+    padding: 14px 25px;
+    text-decoration: none;
+}
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+/*zoom the text on hover*/
+.navbar a:hover, .dropdown:hover .dropbtn {
+    font-size: 24px;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.site-logo{
+    height: 60px;
+    width: 200px;
+}
+#logo:hover{
+    background-color: white;
+}
+
+/* Slideshow */
+/* Slideshow container */
+.custom-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+.slider-img{
+    height: 400px;
+    width: 100%;
+}
+/* Next & previous buttons */
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: darkslateblue;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+    background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+/* Footer Section */
+.footer-info{
+    background-color: #1769a4;
+    height: 410px;
+}
+.copyright-info{
+    padding: 10px 0 10px 0;
+    background-color: rgb(153,153,153);
+    height: 30px;
+    text-align: center;
+}
+
+/* Home Page */
+/* Listing Image and link to pages*/
+.listing-img{
+    width:200px;
+    height: 200px;
+}
+
+.listing-img:hover{
+    width: 300px;
+    height: 250px;
+}
+table{
+    border-collapse: separate;
+    border-spacing: 30px;
+    text-align: center;
+    vertical-align: top;
+}
+td{
+    max-width:100%;
+    font-size: small;
+    vertical-align: top;
+}
+.why-koi, .latest-blog{
+    text-align: justify;
+}
+#latest-blog-heading{
+    color:#f39644;
+}
+.location-name{
+    color: #f39644;
+}
+.location-detail{
+    color:#f39644;
+    text-align: left;
+}
+
+#std-guide-direction{
+    color:#f39644;
+}
+#std-guide-btn{
+
+    background-color:#1769a4;
+}
+/* Contact Us Page */
+/* Title */
+.title{
+    height: auto;
+    background-color: aliceblue;
+}
+.title>h2{
+    text-align: center;
+    color:#113041;
+}
+.title>h3{
+    text-align: center;
+    color:#113041;
+    opacity: 50%;
+}
+
+fieldset{
+    width:100%;
+}
+legend{
+    text-align: center;
+    color:#113041;
+    size: A4;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+input[type=text], [type=email], textarea {
+    width: 80%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical
+}
+
+/* Form Submit Button*/
+.btn{
+    background-color: #113041;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #113095;
+}
+.container{
+    width:100%;
+}
+.left-half{
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    left: 10px;
+    padding:10px;
+    color: white;
+    background-color: #ccc;
+}
+
+.right-half{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 340px;
+    padding:10px;
+    color: red;
+    background-color: #eee;
+}
+
+/* About Us Page */
+.about-us-container{
+    margin: 20px 5px 5px 10px;
+    column-count: 2;
+    column-gap: 50px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.par5{
+    margin: 10px;
+    padding: 10px 10px;
+    color: #113041;
+    opacity: 50%;
+    font-family: "Courier New", sans-serif;
+}
+
+/* Course Page */
+.course-container {
+    display: flex;
+}
+.course {
+    flex: 2;
+    border: 10px;
+}
+.course:first-child {
+    margin-right: 20px;
+}
+
+.degree-heading{
+    color:#f39644;
+}
+
+/* FAQ Page*/
+.collapsible {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+}
+.active, .collapsible:hover {
+    background-color: #ccc;
+}
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+
+/* Gallery Page */
+.vid-intro {
+    display: flex;
+}
+.video {
+    flex: 2;
+    border: 10px;
+}
+.video:first-child {
+    margin-right: 20px;
+}
+#koi-vid{
+    width: 500px;
+    height: 300px;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px ;
+    float: left;
+    width: 200px;
+    padding: 40px;
+}
+div.gallery img:hover  {
+    width: 280px;
+    height: 250px;
+}
+
+div.gallery img {
+    width: 200px;
+    height: 200px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: justify;
+}
+/* To clear float for rest of the divs followed by floated divs*/
+.clear { clear:both; }
+
+/* Testimonial Page */
+#std-testimonial{
+    width: 500px;
+    height: 300px;
+    padding: 30px;
+}
+.testimonial-content {
+    margin: 5px;
+    border: 1px solid #ccc ;
+    width: 350px;
+    height: 200px;
+    padding: 40px;
+}
+.testimonial-content img {
+    width: 350px;
+    height: 200px;
+}
+div.desc {
+    padding: 15px;
+    text-align: justify;
+}
